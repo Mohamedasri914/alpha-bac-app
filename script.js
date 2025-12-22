@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
     downloadButtons.forEach(button => {
         button.addEventListener('click', function() {
             
-             window.location.href = '../version/Alph aBac_V2.2.apk';
+             window.location.href = '../version/Alphla Bac_V2.2.apk';
         });
     });
     
