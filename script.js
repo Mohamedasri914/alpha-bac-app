@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
     downloadButtons.forEach(button => {
         button.addEventListener('click', function() {
             
-             window.location.href = 'https://d.apk.com/b/APK/mohamedelasri.alphabacse.app?version=latest';
+             window.location.href = '../version/Alph aBac_V2.2.apk';
         });
     });
     
